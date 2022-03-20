@@ -1,0 +1,10 @@
+Comando Básicos para a utilização do Git Bash:
+## Git Bash ##
+
+git status
+git clone +https  --> clonar os arquivos
+git add . --> adicionar os arquivos ao repositorio
+git commit -m "Descrição"
+git push origin main --> enviar para github
+
+
