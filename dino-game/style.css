@@ -25,9 +25,13 @@ body {
     font-family: arial;
 }
 
+.vida {
+    margin-top: 0%;
+}
+
 @keyframes slideright {
     from {
-        background-position: 70000%;
+        background-position: 20000%;
     }
 
     to {
